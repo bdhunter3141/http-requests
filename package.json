@@ -1,0 +1,20 @@
+{
+  "name": "http-requests",
+  "version": "1.0.0",
+  "description": "HTTPS client that reads and prints HTML from a specified host and path.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdhunter3141/http-requests.git"
+  },
+  "author": "Bryan Hunter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bdhunter3141/http-requests/issues"
+  },
+  "homepage": "https://github.com/bdhunter3141/http-requests#readme"
+}
