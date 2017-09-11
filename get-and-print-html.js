@@ -10,7 +10,6 @@ function getAndPrintHTML () {
     response.setEncoding("utf8");
     response.on("data", function(data) {
       result += data;
-      // console.log(data);
     });
     response.on("end", function() {
       console.log(result);
